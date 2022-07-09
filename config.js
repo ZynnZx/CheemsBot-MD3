@@ -48,11 +48,11 @@ global.socialm = "Instagram: raffuri" //ur github or insta name
 global.location = "Japan, Jakarta, Kyoto" //ur location
 
 //bot bombdy
-global.botname = "RyuuKayzen - ＭＤ" //ur bot name
+global.botname = "ＲｙｕｕＫａｙｚｅｎ -ＭＤ" //ur bot name
 global.websitex = "https://instagram/raffuri" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "RyuuKayzen-ＭＤ"
+global.packname = "ＲｙｕｕＫａｙｚｅｎ -ＭＤ  Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "ＲｙｕｕＫａｙｚｅｎ -ＭＤ "
 global.themeemoji = "🥶"
 global.reactmoji = "👺"
 global.ownertag = ['6281291155341'] //ur owner tag
